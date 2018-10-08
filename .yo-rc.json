@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "ZmI2MDRlZGEyMzBhZDUxMzhkZmFiMzMzYjRlYmZiYzk3YzdhOWRjNGJjY2U3ZmU2Y2E5NjJjY2FiYjA5NzUzNGNjMzNjYjExODAxNWE0NjYwZmY3ZmE1MzgyYjc5YjcxMjFhYmY2MzFlMDdhZTllOGU1ZWE1NjkzN2UwYjU1MDA="
+  },
+  "git-provider": "GitHub",
+  "git-company": "tiagoCMatias",
+  "repository-name": "jhipster-sample-application"
+}
